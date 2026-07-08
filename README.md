@@ -26,3 +26,20 @@ Install dependencies and start the server:
 Bash
 npm install
 npm start
+
+## 📸 Project Deployment Evidence
+
+### 1. Live Application Dashboard
+![Live Application UI](./screenshots/01-live-app.png)
+
+### 2. CI/CD Pipeline Success (GitHub Actions)
+![GitHub Actions Pipeline](./screenshots/02-github-actions-success.png)
+
+### 3. Azure App Service Infrastructure
+![Azure App Service Portal](./screenshots/03-azure-app-service.png)
+
+### 4. Microsoft Entra ID OIDC Trust Configuration
+![Entra ID Federated Credentials](./screenshots/04-entra-id-oidc.png)
+
+### 5. Encrypted Repository Secrets
+![GitHub Actions Secrets](./screenshots/05-github-secrets.png)
